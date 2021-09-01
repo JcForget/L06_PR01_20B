@@ -31,12 +31,15 @@ On possède un capital de 2600$. Votre banquier vous propose deux types de place
 
 - Pas de frais avec un taux annuel à 4,5 %
 - 60$ de frais fixe qui sont prélevés du capital mais avec un taux annuel de 10%
-1) Calculez le montant de votre capital avec le premier placement au 100ème jour de l'année
-2) Calculez le montant de votre capital avec le deuxième placement au 300ème jour de l'année 
-3) Au bout de combien de jours le deuxième placement vous rapportera plus que le premier ?
+
+i) Calculez le montant de votre capital avec le premier placement au 100ème jour de l'année
+
+ii) Calculez le montant de votre capital avec le deuxième placement au 300ème jour de l'année 
+
+iii) Au bout de combien de jours le deuxième placement vous rapportera plus que le premier ?
 
 Remarque : La formule pour calculer la valeur de votre capital est :
-<img src="https://render.githubusercontent.com/render/math?math= C = capital_initial + capital_initial*(taux/365)*nb_jours">
+<img src="https://render.githubusercontent.com/render/math?math= C=capital_initial+capital_initial*(taux/365)*nb_jours">
 
 Exemple d'affichage : 
 ![Formules de section](data/formules_sections.png)
