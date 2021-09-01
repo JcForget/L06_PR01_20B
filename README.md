@@ -19,10 +19,28 @@ on place un capital de 5 000 $ pendant 89 jours au taux annuel de 8.5%. Calculer
 
 Enfin:  **Valeur acquise = Capital + Intérêts**
 
-```
+
 Exemple d'affichage : 
 ![Formules de section](data/formules_sections.png)
-```
+
+## Partie 2 :  Comparer deux placements à intérêts simples
+À faire : compléter le fichier `interet_compose.py`
+
+On possède un capital de 2600$. Votre banquier vous propose deux types de placement :
+<img src="https://render.githubusercontent.com/render/math?math=I=Ctn">
+
+- Pas de frais avec un taux annuel à 4,5 %
+- 60$ de frais fixe qui sont prélevés du capital mais avec un taux annuel de 10%
+1) Calculez le montant de votre capital avec le premier placement au 100ème jour de l'année
+2) Calculez le montant de votre capital avec le deuxième placement au 300ème jour de l'année 
+3) Au bout de combien de jours le deuxième placement vous rapportera plus que le premier ?
+
+Remarque : La formule pour calculer la valeur de votre capital est :
+<img src="https://render.githubusercontent.com/render/math?math= C = capital_initial + capital_initial*(taux/365)*nb_jours">
+
+Exemple d'affichage : 
+![Formules de section](data/formules_sections.png)
+
 La déformation maximale de la poutre est 42.24 mm
 ```
 
