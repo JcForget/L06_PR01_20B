@@ -6,14 +6,22 @@
 ## Objectif
 Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. Les fichiers `interet_simple.py`, `interet_compose.py`,  et `heritage.py` seront à compléter.
 
-## Partie 1 : Poutre rectangulaire
-À faire : compléter le fichier `poutre_rect.py`
+## Partie 1 : Interet simple
+À faire : compléter le fichier `interet_simple.py`
 
-Considérant que la section de la poutre est rectangulaire tel que présenté à la figure ci-dessous, et considérant les données fournies dans le fichier, vous devez écrire un programme permettant de calculer la déformation maximale de la poutre (`delta_max`). Vous devrez au préalable calculer le moment quadratique de la section (Appelé *inertie* dans le code source).
+on place un capital de 5 000 $ pendant 89 jours au taux annuel de 8.5%. Calculer l’intérêt et la valeur acquise à l’issue du placement. On utilise la formule uivante:
+<img src="https://render.githubusercontent.com/render/math?math=I=Ctn">
 
-![Poutre encastrée](data/poutre_section.png)
+- ***I*** : intérêt
+- ***C*** : capital placé
+- ***t*** : taux journalier (**taux annuel / 365**)
+- ***n*** : nombre de jours
 
-Exemple d'affichage :
+Enfin:  **Valeur acquise = Capital + Intérêts**
+
+```
+Exemple d'affichage : 
+![Formules de section](data/formules_sections.png)
 ```
 La déformation maximale de la poutre est 42.24 mm
 ```
