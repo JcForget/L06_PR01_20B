@@ -55,6 +55,7 @@ Soit le capital initial **C<sub>0</sub>** = 300 000$ et le capital placé récup
 Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d'intérêt de 8%.
 
 Exemple d'affichage : 
+
 ![Formules de section](data/affichage_partie3.png)
 
 
