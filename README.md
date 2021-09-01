@@ -43,7 +43,7 @@ Remarque : La formule pour calculer la valeur de votre capital est :
 <strong>C = capital_initial + capital_initial*(taux/365)*nb_jours</strong>
 
 Exemple d'affichage : 
-![Formules de section](data/affichage partie 2.png)
+![Formules de section](data/affichage_partie2.png)
 
 
 
@@ -55,6 +55,6 @@ Soit le capital initial **C<sub>0</sub>** = 300 000$ et le capital placé récup
 Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d'intérêt de 8%.
 
 Exemple d'affichage : 
-![Formules de section](data/affichage partie 3.png)
+![Formules de section](data/affichage_partie3.png)
 
 
