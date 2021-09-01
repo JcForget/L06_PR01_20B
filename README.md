@@ -39,7 +39,7 @@ ii) Calculez le montant de votre capital avec le deuxième placement au 300ème 
 iii) Au bout de combien de jours le deuxième placement vous rapportera plus que le premier ?
 
 Remarque : La formule pour calculer la valeur de votre capital est :
-<img src="https://render.githubusercontent.com/render/math?math= C=capital_initial+capital_initial*(taux/365)*nb_jours">
+<img src="https://render.githubusercontent.com/render/math?math=C=C_0+++C_0*(taux/365)*n">
 
 Exemple d'affichage : 
 ![Formules de section](data/formules_sections.png)
