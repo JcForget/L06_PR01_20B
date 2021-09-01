@@ -21,7 +21,8 @@ Enfin:  **Valeur acquise = Capital + Intérêts**
 
 
 Exemple d'affichage : 
-![Formules de section](data/affichage partie 1.png)
+
+![Formules de section](data/affichage_partie1.png)
 
 ## Partie 2 :  Comparer deux placements à intérêts simples
 À faire : compléter le fichier `partie 2.py`
@@ -42,7 +43,9 @@ Remarque : La formule pour calculer la valeur de votre capital est :
 
 <strong>C = capital_initial + capital_initial*(taux/365)*nb_jours</strong>
 
+
 Exemple d'affichage : 
+
 ![Formules de section](data/affichage_partie2.png)
 
 
@@ -53,6 +56,7 @@ Exemple d'affichage :
 Soit le capital initial **C<sub>0</sub>** = 300 000$ et le capital placé récupéré au bout de n années <strong>C<sub>n</sub> = C<sub>n-1</sub>+C<sub>n-1</sub> * taux_interet</strong>
 
 Calculer  **C<sub>20</sub>** le capital placé pendant 20 années avec un taux d'intérêt de 8%.
+
 
 Exemple d'affichage : 
 
