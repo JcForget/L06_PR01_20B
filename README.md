@@ -4,7 +4,7 @@
 #### :alarm_clock: [Date de remise le dimache 3 octobre à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200928T2359&p0=165&msg=Remise&font=cursive&csz=1#)
 
 ## Objectif
-Concevoir et implémenter un programme permettant de calculer différents investissements selon différentes situations. Les fichiers `interet_simple.py`, `interet_compose.py`,  et `heritage.py` seront à compléter.
+Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. Les fichiers `interet_simple.py`, `interet_compose.py`,  et `heritage.py` seront à compléter.
 
 ## Partie 1 : Poutre rectangulaire
 À faire : compléter le fichier `poutre_rect.py`
