@@ -4,10 +4,10 @@
 #### :alarm_clock: [Date de remise le dimanche 3 octobre à 23h59](https://www.timeanddate.com/countdown/generic?iso=20200928T2359&p0=165&msg=Remise&font=cursive&csz=1#)
 
 ## Objectif
-Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. Le fichier `projet_1.py` sera à compléter.
+Concevoir et implémenter un programme permettant de calculer le rendement de différents investissements selon différentes situations. 
 
 ## Partie 1 : Interet simple /5 pts
-À faire : compléter la partie 1 du fichier `projet_1.py` 
+À faire : compléter le fichier `partie_1.py` 
 
 on place un capital de 8 000 $ pendant 72 jours au taux annuel de 6.5%. Calculer l’intérêt et la valeur acquise à l’issue du placement. On utilise la formule suivante:
 <img src="https://render.githubusercontent.com/render/math?math=I=Ctn">.
@@ -25,7 +25,7 @@ Exemple d'affichage :
 ![Formules de section](data/affichage_partie1.png)
 
 ## Partie 2 :  Comparer deux placements à intérêts simples /8 pts
-À faire : compléter la partie 2 du fichier `projet_1.py`
+À faire : compléter le fichier `partie_2.py`
 
 On possède un capital de 2600$. Votre banquier vous propose deux types de placement :
 <img src="https://render.githubusercontent.com/render/math?math=I=Ctn">
@@ -51,7 +51,7 @@ Exemple d'affichage :
 
 
 ## Partie 3 :  intérêts composé /7 pts
-À faire : compléter la partie 3 du fichier `projet_1.py`
+À faire : compléter le fichier `partie_3.py`
 
 Soit le capital initial **C<sub>0</sub>** = 300 000$ et le capital placé récupéré au bout de n années <strong>C<sub>n</sub> = C<sub>n-1</sub>+C<sub>n-1</sub> * taux_interet</strong>
 
